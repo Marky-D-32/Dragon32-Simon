@@ -4,7 +4,7 @@ This is a game based on "Simon".  It was my first attempt at trying to publish a
 | File | Description |
 |------------------------------|--------------------------------------------------------------------------------------------------------------|
 | simon_orginal.bas            | a text file of the basic code, exported from the XROAR emulator.|
-| simon_original_assembly.txt  | the 6809 assembly code used to generate the amchine code routines.  I used ALLDREAM to develop this code.    |
+| simon_original_assembly.txt  | the 6809 assembly code used to generate the machine code routines.  I used ALLDREAM to develop this code.    |
 | simon_original.cas           |the game file which can be loaded into the XROAR emulator       |
 
 To run the game:
@@ -14,3 +14,5 @@ To run the game:
 * Within the emulator (i.e. on the green screen)
   - Type CLOAD
   - Type RUN
+
+![](/Simon_Electronic_Game.jpg)
